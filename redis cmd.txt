@@ -1,0 +1,6 @@
+//redis get password
+config get requirepass
+//redis set password
+config set requirepass test123
+//redis auth
+auth test123
